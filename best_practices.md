@@ -12,7 +12,7 @@ newList = [fruit for fruit in fruits]
 print(newList)
 
 
-# Ternary operator instead of if-elif
+# Ternary operator instead of if-else
 a,b = 5,10
 ## Bad practice
 if a>b:
